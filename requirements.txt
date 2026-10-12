@@ -1,0 +1,4 @@
+numpy>=1.26,<3
+opencv-python>=4.8,<5
+skia-python>=87,<145
+pedalboard>=0.9,<1
